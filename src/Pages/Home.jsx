@@ -43,7 +43,7 @@ const Home = () => {
             <div className="flex flex-col justify-center gap-4 max-w-md">
               <div className="flex items-center gap-4">
                 <IoLogoApple  size={45}/>
-                <span>iPhone 14 Series</span>
+                <span>iPhone 14 Sries</span>
               </div>
               <h2 className="text-6xl font-semibold leading-tight">
                 Up to 10% off Voucher
